@@ -1,0 +1,6 @@
+[submodule "blog"]
+	path = blog
+	url = git@github.com:pupungeggang2/blog
+[submodule "HTML5-Game"]
+	path = HTML5-Game
+	url = git@github.com:pupungeggang2/HTML5-Game
